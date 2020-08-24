@@ -1,0 +1,33 @@
+#div1{
+    width=300px;
+    height: 200px;
+    background: firebrick;   
+}
+#div2{
+    width=300px;
+    height: 200px;
+    background: slateblue;   
+}
+#div3{
+    width=300px;
+    height: 200px;
+    background: skyblue;   
+}
+#div4{
+    width=300px;
+    height: 200px;
+    background: #B222222;  
+    float: left;
+}
+#div5{
+    width=300px;
+    height: 200px;
+    background: #6A5ACD  ;  
+        float: left;
+}
+#div6{
+    width=300px;
+    height: 200px;
+    background: skyblue;  
+        float: left;
+}
